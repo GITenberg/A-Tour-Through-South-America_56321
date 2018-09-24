@@ -1,5 +1,8 @@
 _repo: A-Tour-Through-South-America_56321
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56321-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Forrest, A. S. (Archibald Stevenson)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '33528'
     url: http://www.gutenberg.org/2009/agents/33528
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56321#A-Tour-Through-South-America
 gutenberg_issued: '2018-01-06'
 gutenberg_type: Text
 identifiers:
